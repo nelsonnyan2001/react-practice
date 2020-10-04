@@ -1,0 +1,17 @@
+[
+    { 
+      "name" : "hot dog",
+      "calories" : 120,
+      "toppings" : ["cheese", "ketchup"]
+    },
+    {
+      "name" : "burger",
+      "calories" : 600,
+      "toppings" : ["ketchup", "mayonnaise"]
+    },
+    {
+      "name" : "mohhinga",
+      "calories" : 300,
+      "toppings" : ["spring onion", "chilli"]
+    }
+  ]
